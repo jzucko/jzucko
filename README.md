@@ -1,5 +1,5 @@
-👋 Hi, I’m Jelena. After several years of working in the field of administration, I discovered a strong passion for the world of programming.
+👋 Hi, I’m Jelena. While working in administration, I discovered a strong interest in programming and technology.
 
-Throughout self learning and online courses, I gained beginner experience in programming in Python, SQL, HTML, CSS and JS. 
+Through self-learning and online courses, I’ve been building my skills in Python, SQL, HTML, and CSS. I’m an enthusiastic hobby programmer who enjoys learning new things and creating small projects along the way.
 
-In my leisure time, I enjoy activities such as cycling, outdoor pursuits, reading science fiction and fantasy books, and playing board games.
+In my free time, I love cycling, spending time outdoors, reading science fiction and fantasy, and playing board games.
